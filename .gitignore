@@ -1,0 +1,14 @@
+*
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+!*.py
+!*.lua
+!*.json
+!*.java
+!*.class
+!*.jar
+!*.sh
+!*/
+
